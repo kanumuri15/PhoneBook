@@ -2,6 +2,7 @@
 import  java.util.concurrent.TimeUnit;
 import java.util.Scanner;
 import java.io.*;
+import java.util.Collection;
 public class array {
 	static int ko=0,x1=0;
 	public static void main(String[] args)throws IOException, InterruptedException {
