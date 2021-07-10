@@ -9,7 +9,7 @@ public class array {
 		
 	    Scanner sc=new Scanner(System.in);
 		
-	    String s1,fr;
+	    String s1,frr;
 		char f;
 	    System.out.println("!!!!!!!WELCOME TO PHONEBOOK!!!!!!");
 	    System.out.println("\n");
